@@ -1,0 +1,1 @@
+console.log('Whale Watcher is alive!');
